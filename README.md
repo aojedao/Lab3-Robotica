@@ -31,7 +31,7 @@
     <img src="images/UNShield.png" alt="Logo" width="222" height="94">
   </a>
 
-  <h3 align="center">Laboratorio 1 - Robótica</h3>
+  <h3 align="center">Laboratorio 3 - Robótica</h3>
   
 
 ## Integrantes
