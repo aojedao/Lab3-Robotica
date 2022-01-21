@@ -6,7 +6,7 @@ for i=1:length(t)*4
 %     dosR.plot(q_ctraj(i,:))
 %     plot3(punto(1,4),punto(2,4),punto(3,4),'r*')
     %view(3)
-    UR3.plot(poses,'workspace',[0 1 0 1 0 5]);
+    UR3.plot(poses,'works);
     view([45 45])
     pause(0.01)
 end
